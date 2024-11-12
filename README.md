@@ -11,7 +11,7 @@ This project contains an exploratory data analysis (EDA) of the Titanic dataset,
 ## Usage
 
 1. Clone this repository.
-2. Open the `Titanic_dataset_EDAipynb.ipynb` file in Jupyter Notebook or Jupyter Lab.
+2. Open the `Titanic_dataset_EDAipynb (1).ipynb` file in Jupyter Notebook or Jupyter Lab.
 3. Run each cell sequentially to reproduce the analysis.
 
 ### Prerequisites
